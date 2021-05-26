@@ -1,4 +1,4 @@
-package com.antonio.Controller
+package com.antonio.controller
 
 import io.micronaut.http.MediaType
 import io.micronaut.http.annotation.Body
